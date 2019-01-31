@@ -58,9 +58,9 @@ mux.js
 
 [Vczh]粉丝群 [咸鱼]Square 的建议
 
-@zsxsoft 的建议以及弹幕实现（https://github.com/zsxsoft/danmu-client）
+@zsxsoft 的建议以及弹幕实现（https://github.com/zsxsoft/danmu-client)
 
-@jamesliu96 的弹幕实现（https://github.com/jamesliu96/Damoo）
+@jamesliu96 的弹幕实现（https://github.com/jamesliu96/Damoo)
 
 @cnbeining 的 B 站新解析（2016-8）
 
